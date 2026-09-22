@@ -7,7 +7,7 @@ dispatching heuristics — NEH (Nawaz–Enscore–Ham best-insertion) versus SPT
 ## What this is
 
 Coursework for *Optimization Implementation in Production and Logistics* (OVGU
-Magdeburg), Assignment 3. In a permutation flow-shop every job visits all
+Magdeburg). In a permutation flow-shop every job visits all
 machines in the same order, and jobs keep that order across machines; the goal
 is to minimise the makespan. Two classic heuristics are implemented:
 
